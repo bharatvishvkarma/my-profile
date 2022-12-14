@@ -48,18 +48,18 @@ function Header() {
         <a className="link" onClick={() => setActive(!active)} href="#banner">
           Home
         </a>
-        <a className="link" onClick={() => setActive(!active)} href="#services">
-          Sevices
+        <a className="link" onClick={() => setActive(!active)} href="#projects">
+          Projects
         </a>
         <a
           className="link"
           onClick={() => setActive(!active)}
-          href="#experiences"
+          href="#tech-stack"
         >
-          Experience
+          Skills
         </a>
-        <a className="link" onClick={() => setActive(!active)} href="#projects">
-          Projects
+        <a className="link" onClick={() => setActive(!active)} href="#container">
+          Contact
         </a>
       </div>
     </header>
