@@ -12,7 +12,7 @@ function Footer() {
         <h1 style={{color:"teal",fontSize:"45px"}}>𝗕𝗵𝗮𝗿𝗮𝘁 𝗩𝗶𝘀𝗵𝘃𝗸𝗮𝗿𝗺𝗮</h1>
         <a href="https://www.linkedin.com/in/bharatvishvkarma/" target="_blank" style={{marginBottom:"5px"}}><FaLinkedin/>: bharatvishvkarma</a>
         <a style={{marginBottom:"5px"}}><FiMail/>: bharatsharma1995@outlook.com</a>
-        <a style={{alingnContent:"center"}}>< MdCall/>: +91-702360287</a>
+        <a style={{alingnContent:"center"}}>< MdCall/>: +91-7023602287</a>
       </div>
     </footer>
   );
