@@ -9,14 +9,14 @@ function Projects() {
       img: "/projects/ss1.jpg",
       gLink: "https://github.com/Meshabaz/freshly-clone",
       lLink: "https://snazzy-crostata-4c826a.netlify.app/index.html",
-      desc: "Freshly is a New York-based prepared meal delivery company that delivers throughout the United States. <br /> Where I created Product page with a Section or Cart page also Worked on Filter Section and for Make this Dynamic I use JavaScript and for fetch Data we Use Api"
+      desc: "Freshly is a New York-based prepared meal delivery company that delivers throughout the United States. Where I created Product page with a Section or Cart page also Worked on Filter Section and for Make this Dynamic I use JavaScript and for fetch Data we Use Api"
     },
     {
       title: "boAt Clone",
       img: "/projects/ss2.jpg",
       gLink: "https://github.com/bharatvishvkarma/boAt-lifeStyle-Clone",
       lLink: "https://visionary-profiterole-96c1db.netlify.app/",
-      desc: "BoAt is an India-based consumer electronics brand that markets earphones, headphones stereos, travel chargers, and premium rugged cables. <br/> Where I created Landing Page which is fully Responsive and also I Worked on Cart Page so that any product we can add to the Cart, and to make this clone we used only HTML, CSS and JavaScript and for save the data we used Local Storage"
+      desc: "BoAt is an India-based consumer electronics brand that markets earphones, headphones stereos, travel chargers, and premium rugged cables. Where I created Landing Page which is fully Responsive and also I Worked on Cart Page so that any product we can add to the Cart, and to make this clone we used only HTML, CSS and JavaScript and for save the data we used Local Storage"
     }
     
   ]);
