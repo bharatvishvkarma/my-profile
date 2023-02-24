@@ -95,7 +95,7 @@ header .mobile-links {
 .banner .banner-img {
   position: relative;
   flex: 0 0 35%;
-  max-width: 50%;
+  max-width: 45%;
   margin-right: 8%;
   /* width: 100%; */
 }

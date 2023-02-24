@@ -14,7 +14,7 @@ function Footer() {
         <a href="https://www.linkedin.com/in/bharatvishvkarma/" target="_blank" style={{marginBottom:"5px"}}><FaLinkedin/>: bharatvishvkarma</a>
         <a style={{marginBottom:"5px"}}><FiMail/>: bharatsharma1995@outlook.com</a>
         <a style={{alingnContent:"center"}}>< MdCall/>: +91-7023602287</a>
-        <a style={{alingnContent:"center"}}>< VscLocation/>: Neemuch (M.P)</a>
+        <a style={{alingnContent:"center"}}>< VscLocation/>: Neemuch (M.P.)</a>
       </div>
     </footer>
   );

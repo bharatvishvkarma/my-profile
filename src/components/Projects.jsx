@@ -1,9 +1,19 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import React from "react";
 import { useState } from "react";
+import { AiOutlineHtml5 } from 'react-icons/ai';
+import { DiCss3 } from 'react-icons/di';
+import { DiJavascript } from 'react-icons/di';
 
 function Projects() {
   const [projects] = useState([
+    {
+      title: "IKEA Clone- Full Stack",
+      img: "/projects/ss3.jpg",
+      gLink: "https://github.com/bharatvishvkarma/Ikea-full-stack-project",
+      lLink: "https://my-q0qb5j3rs-bharatvishvkarma.vercel.app/",
+      desc: "IKEA is a Swedish multinational conglomerate based in the Netherlands that designs and sells ready-to-assemble furniture, kitchen appliances, decoration, home accessories, and various other goods and home services. I uses Node JS, MongoDB and Express for backend and React for frond end to build this clone."
+    },
     {
       title: "Freshly Clone",
       img: "/projects/ss1.jpg",
@@ -17,7 +27,8 @@ function Projects() {
       gLink: "https://github.com/bharatvishvkarma/boAt-lifeStyle-Clone",
       lLink: "https://visionary-profiterole-96c1db.netlify.app/",
       desc: "BoAt is an India-based consumer electronics brand that markets earphones, headphones stereos, travel chargers, and premium rugged cables. Where I created Landing Page which is fully Responsive and worked on Cart page."
-    }
+    },
+    
     
   ]);
   return (
@@ -51,7 +62,13 @@ function Projects() {
                   </a>
                 </div>
               </div>
-              <p>
+              {/* <div style={{fontSize:"20px",display:"flex",gap:"20px",alignItems:"center",borderBottom:"1px solid red",marginBottom:"8px"}}>
+                <h3>Tech Stack: </h3>
+                <AiOutlineHtml5 />
+                <DiCss3 />
+                <DiJavascript />
+              </div> */}
+              <p style={{marginTop:"10px"}}>
                 {project.desc}
               </p>
             </div>
