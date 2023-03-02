@@ -10,7 +10,7 @@ function Banner() {
       <div className="container">
         <div className="banner-wrapper">
           <div className="banner-img">
-            <img style={{width:"200 px",borderRadius:"50px"}}  src="/projects/Bharat-image.png" alt="" onMouseLeave={e => e.currentTarget.src = "/projects/Bharat-image.png"} onMouseOver={e => e.currentTarget.src = "/projects/Bharat-image-grayBlack.png" }/>
+            <img className='myImg' style={{width:"200 px",borderRadius:"50px"}}  src="/projects/Bharat-image.png" alt="" onMouseLeave={e => e.currentTarget.src = "/projects/Bharat-image.png"} onMouseOver={e => e.currentTarget.src = "/projects/Bharat-image-grayBlack.png" }/>
           </div>
           <div className="banner-content">
             <h6 style ={{fontSize:"35px",marginBottom:"5px"}}>Hello, I'm Bharat Vishvkarma</h6>
