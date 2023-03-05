@@ -23,7 +23,7 @@ function Banner() {
             while making a significant contribution to the success of the company.
             </p>
             <div style = {{display:"flex",flexWrap:"wrap",gap:"15px"}}>
-              <a className="btn" target="_blank" href="https://drive.google.com/file/d/1MMmDq5st8sL_tJZh9gZtPmFoBZOLiCq7/view?usp=share_link">
+              <a className="btn" target="_blank" href="https://drive.google.com/file/d/1Nw3U1u8Yu-AfrqLgoe5I_uy0Fyr3u96n/view?usp=share_link">
                 Download CV
               </a>
               <a href = "https://github.com/bharatvishvkarma" target="_blank" style={{fontSize:"30px"}} className="btn" >
