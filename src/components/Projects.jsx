@@ -11,7 +11,7 @@ function Projects() {
       title: "IKEA Clone- Full Stack",
       img: "/projects/ss3.jpg",
       gLink: "https://github.com/bharatvishvkarma/Ikea-full-stack-project",
-      lLink: "https://my-q0qb5j3rs-bharatvishvkarma.vercel.app/",
+      lLink: "https://my-app-bharatvishvkarma.vercel.app/",
       desc: "IKEA is a Swedish multinational conglomerate based in the Netherlands that designs and sells ready-to-assemble furniture, kitchen appliances, decoration, home accessories, and various other goods and home services. I uses Node JS, MongoDB and Express for backend and React for frond end to build this clone."
     },
     {
